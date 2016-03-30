@@ -1,0 +1,6 @@
+[submodule "typescript/package-management/ts-npm-module"]
+	path = typescript/package-management/ts-npm-module
+	url = https://github.com/basarat/ts-npm-module
+[submodule "typescript/package-management/ts-npm-module-consume"]
+	path = typescript/package-management/ts-npm-module-consume
+	url = https://github.com/basarat/ts-npm-module-consume
