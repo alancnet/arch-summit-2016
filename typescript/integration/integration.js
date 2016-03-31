@@ -1,0 +1,1 @@
+myGlobalFunction("Hello World");
